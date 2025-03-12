@@ -3,8 +3,8 @@ Contributors: rostyslav-knap
 Donate link: https://callpage.io
 Tags: CallPage, call back, bazz, Live Call, calls, callback, call request, call button
 Requires at least: 3.0.1
-Tested up to: 6.1.1
-Stable tag: 1.0.1.21
+Tested up to: 6.7.1
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -184,3 +184,6 @@ Add special sign for analysis
 
 = 1.0.1.6 =
 Updated README.txt
+
+= 1.0.2 =
+Added PHP 8+ compatibility

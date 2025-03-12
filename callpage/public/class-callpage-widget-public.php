@@ -22,6 +22,13 @@
  */
 class Callpage_Widget_Public
 {
+    /**
+     * Plugin Options
+     *
+     * @since 1.0.2
+     * @var array $callpage_options
+     */
+    protected $callpage_options;
 
     /**
      * The ID of this plugin.
@@ -137,5 +144,4 @@ class Callpage_Widget_Public
     {
         echo $this->callpage_options['code_callpage'] . $this->wordpress_anchor;
     }
-
 }

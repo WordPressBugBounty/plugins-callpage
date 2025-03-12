@@ -34,7 +34,7 @@ include 'callpage-login-display.php';
 ?>
 
 <!-- This file should primarily consist of HTML with a little bit of PHP. -->
-<div id="cp-settings" class="wrap <?php if($_GET['settings-updated'] == null && empty($code_callpage)) echo "display-none" ?>">
+<div id="cp-settings" class="wrap <?php if((isset($_GET['settings-updated']) && $_GET['settings-updated'] == null) && empty($code_callpage)) echo "display-none" ?>">
 
     <h1><?php echo esc_html(get_admin_page_title()); ?></h1>
 

@@ -16,7 +16,7 @@
  * Plugin Name:       Callpage - Callback for Wordpress
  * Plugin URI:        https://callpage.io
  * Description:       CallPage widget for Wordpress.
- * Version:           1.0.1.21
+ * Version:           1.0.3
  *
  * Author:            Callpage
  * Author URI:        https://callpage.io

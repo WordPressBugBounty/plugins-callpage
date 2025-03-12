@@ -101,7 +101,7 @@
 
 
 </style>
-<div id="cp-banner" class="wrap <?php if($_GET['settings-updated'] != null || !empty($code_callpage)) echo "display-none" ?>"">
+<div id="cp-banner" class="wrap <?php if((isset($_GET['settings-updated']) && $_GET['settings-updated'] != null) || !empty($code_callpage)) echo "display-none" ?>">
     <div class="grid-container-12">
         <div class="grid-item">
             <div class="cp-img-logo-box">
