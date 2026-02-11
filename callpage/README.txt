@@ -1,10 +1,10 @@
-=== CallPage - Free Callback Widget ===
+=== CallPage - Callback Widget ===
 Contributors: rostyslav-knap
 Donate link: https://callpage.io
-Tags: CallPage, call back, bazz, Live Call, calls, callback, call request, call button
+Tags: CallPage, calls, callback, call request, call button
 Requires at least: 3.0.1
 Tested up to: 6.7.1
-Stable tag: 1.0.3
+Stable tag: 1.0.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,88 +12,72 @@ Widget for callback in 28 seconds! Gain 75% more leads from your website!
 
 == Description ==
 
-CallPage is a widget on your website which helps your website visitor connect with you via free call within 28 seconds.
+CallPage is a tool that helps your website visitors connect with your team through a free call within seconds. It can help you get 30–125% more calls and turn them into revenue.
 
-= With CallPage you can easily: =
+= With CallPage, you can: =
 
-* Increase in the number of quality leads
-* Lower cost of customer acquisition
-* Improve conversion rate
+* Increase the number of quality sales calls
+* Improve your website conversion rate
 * Improve customer experience
-* Decrease customer response time
-
-The CallPage widget lets you call your website visitors and helps you gain an additional 30-125% more leads.
+* Reduce lead response time to just seconds
+* Manage and control all incoming calls
+* Automate call handling with an AI Voice Agent
 
 [TRY IT FOR FREE](https://app.callpage.io/register)
 
 = Features: =
 
-* call-me-later function,
-* click-to-call,
+* fully customizable widget,
 * automated callback,
-* meeting scheduling and lead routing
-* interactive pop-up,
-* call forwarding, and call analytics.
-* fully customizable widget to match your website
+* AI voice agent,
+* call forwarding,
+* call recording,
+* virtual numer,
+* meeting scheduling,
+* lead distibution,
+* scoring rules,
 
 All in one tool to increase sales, improve customer experience and business processes..
 
-[Check more features](https://www.callpage.io/all-features/)
+== Main products: ==
 
-= Generate more leads =
+= Callback Software =
 
-With CallPage, each website visitor can connect with you in just 28 seconds through a free call. The website shows a pop-up where your visitor can leave their phone number and receive a callback, at no cost.
-Use CallPage's callback feature to quickly and easily connect with your website visitors and turn them into satisfied customers.
+With CallPage’s website widget, you can instantly connect with visitors and turn them into customers. Add a callback pop-up to your site and let visitors request an immediate call from your team.
 
-[TRY IT FOR FREE](https://app.callpage.io/register)
+You can customize the pop-up’s design, set display rules, configure call retry and routing options, and easily manage team availability.
 
-= Meetings =
+= AI Voice Agent =
 
-Invite your visitors to book a meeting directly from your website. Your site visitors will be invited to book a meeting with your team members. The beautiful and convenient to use form is designed to increase your site's conversion rate!
-After your site visitors select a date, they will receive an automatic email with meeting details
+With CallPage’s AI Voice Agent, you can answer calls 24/7. The AI Agent answers incoming calls, handles them like a human, and forwards them to your team only when needed.
 
-= Get more insights =
+You can connect the Agent with the callback widget, website forms, or a virtual number to manage calls exactly the way you want.
 
-In our admin panel you can listen to recorded conversations and use them to improve your customer experience as well as your sales scripts. This way, you'll be able to close deals faster and with greater confidence.
+= Meeting Scheduler =
 
-= Fully customizable =
+Make it easy for visitors to book a meeting with your team. Instead of sending back-and-forth emails, simply show them a clean, easy-to-use booking form. It helps you turn visitors into scheduled meetings.
 
-You can customize CallPage widget to match your brand's specific colors and style. From personalizing the text to creating a custom design using our CSS editor, the possibilities are endless.
+= Virtual Number =
 
-What's more, CallPage is mobile-friendly, responsive and looks great on all screens.
+Set up a simple contact center and track all incoming calls in one place. Create IVR and call distribution rules to forward calls to the right person on your team. Record and track calls to make sure you never miss a lead.
 
-= Never miss a Lead with CallPage! =
+= Call Management & Routing =
 
-Stay on top of your leads, even when you're not working or occupied, with CallPage's night mode. This feature generates leads through the widget form outside of business hours. Additionally, the call scheduling feature allows your customers to book an ASAP call without having to wait on hold.
-
-With CallPage's call algorithm and retry function, you can automatically callback to the visitor if the call was not successful. Ensure that you never miss a lead with CallPage's convenient and effective features.
-
-[TRY IT FOR FREE](https://app.callpage.io/register)
+All captured leads are stored in your admin dashboard with their details. Check lead sources, listen to call recordings, and use this data to improve your sales process. Get better insights to close deals faster and with more confidence.
 
 = Integration =
 
-HubSpot, Salesforce, Zapier, Google Analytics, Sales Manago, Livespace and many more. CallPage integrates with your favorite tools. See the full list of integrations here.
+CallPage integrates with tools like HubSpot, Salesforce, Zapier, Google Analytics, Sales Manago, Livespace, and many more. See the full list of integrations on our website.
 
-= Our team will always help you! =
+[Learn more about CallPage](https://www.callpage.io/)
 
-Setting up CallPage is a breeze and requires no coding skills. Our straightforward instructions will help you to set up everything in under 5 minutes.
+== Pricing and setup ==
 
-And if you need any support or assistance, our dedicated Customer Success team is always on hand to help you with any questions or concerns.
+Setting up CallPage is simple and requires no coding skills. Just follow our clear instructions and get everything running in under 5 minutes. If you need help, our Support team is always ready to assist you. 
 
-= The #1 Sales Tool for Inbound Leads! =
+CallPage offers two flexible subscription plans that you can start or cancel anytime. Easily adjust your plan with additional call credits or user seats. Try it free for 14 days and see how CallPage works for your business.
 
-Our robust suite of features empowers you to convert website visitors into satisfied customers. [Check how we helped our clients](https://www.callpage.io/clients/) and see how CallPage can help you grow your business today."
-
-= Schedule a Demo with Our Experts to Learn About All the Benefits! =
-Book a personalized demo with one of our specialists to fully understand all the advantages CallPage has to offer. Get a hands-on demonstration and have all your questions answered. Don't miss this opportunity to learn how CallPage can benefit your business.
-
-[BOOK DEMO](https://www.callpage.io/demo/)
-
-[TRY IT FOR FREE](https://app.callpage.io/register)
-
-= Pricing =
-We have different pricing options suitable for all businesses. Check our pricing plans and pick the best for your business.
-[Learn more](https://www.callpage.io/pricing/)
+[Start 14 days free trial](https://app.callpage.io/register?utm_source=redirect&utm_medium=wordpress&utm_campaign=trial)
 
 = WATCH HOW TO INSTALL CALLPAGE =
 
@@ -105,13 +89,10 @@ https://www.youtube.com/watch?v=DANObnlKwiw
 
 Irrespective of whether you have a product or selling a service, you need CallPage. The widget is designed to be suited for all kinds of businesses that are interested in generating more inbound leads from their website visitors.
 
-= How can I always answer in 28 seconds? =
-
-In practice, 28 is enough for you to answer the phone. In 95% of the cases in daily life, you answer within 20 seconds. However, if you think that you need more time, you can extend the response time in the widget settings. It can be customized entirely to your needs.
-
 = What happens if the manager is busy when someone requests a call from CallPage? =
 
-We highly recommend that all our users add at least 2-3 numbers. Should there be a situation where one of the call operators is busy, the call will automatically be redirected to the next operator in the queue.
+You can add more than one person to handle incoming calls. This way, if you can’t answer, CallPage will forward the call to the next person, then the next one, and so on.
+You can also add an AI Voice Agent that will answer all calls when you or your team are not available.
 
 = How does CallPage increase the conversion rate of the website? =
 
@@ -137,10 +118,10 @@ Get in touch with us today! [contact@callpage.io](mailto:contact@callpage.io)
 == Screenshots ==
 
 1. CallPage widget
-2. CallPage modal
-3. CallPage analytics
-4. CallPage Meetings
-5. CallPage Meetings
+2. CallPage dashboard
+3. CallPage Voice Agent
+4. CallPage Statistics
+5. CallPage Integrations
 
 == Installation ==
 
@@ -161,29 +142,10 @@ All set! The CallPage widget is now viable on your website.
 * Minor bugfixes, updated plugin description
 = 1.0.1.1 =
 * Updated few URLs
-
-== Upgrade Notice ==
-
-= 1.0.0 =
-Just released into the wild.
-
-= 1.0.1 =
-Bugfixes, updated README.txt
-
-= 1.0.1.1 =
-Updated few URLs
-
-= 1.0.1.3 =
-Updated README.txt, add translations
-
 = 1.0.1.4 =
 Updated README.txt, graphics add translations
-
-= 1.0.1.5 =
-Add special sign for analysis
-
-= 1.0.1.6 =
-Updated README.txt
-
 = 1.0.2 =
 Added PHP 8+ compatibility
+= 1.0.3.1 =
+Added AI Voice Agent details
+
